@@ -15,7 +15,6 @@ An Edge AI system that automatically classifies and sorts waste into categories 
 |---------|--------------|
 | Accuracy | 92.86% (100% validation) |
 | Model Type | Quantized (int8) |
-| Latency | ~570ms |
 | Resource Saving | 18% less RAM, 15% less ROM |
 | Operation | Offline with low power |
 
@@ -27,4 +26,3 @@ An Edge AI system that automatically classifies and sorts waste into categories 
   • ArduinoBLE
   • Edge Impulse Arduino
   • OV7675 Camera Library
-  • Servo (for actuation)
